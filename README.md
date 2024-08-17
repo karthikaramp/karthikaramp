@@ -1,6 +1,6 @@
 KARTHIKA RAMESH
 
-- 👩‍💻 I’m currently pursing Master of Science in Information Technology and Management at McCombs School of Business - University of Texas at Austin
+- 👩‍💻 I am currently pursing Master of Science in Information Technology and Management at McCombs School of Business - University of Texas at Austin
 - 📈 I am a curious learner who believes in life long growth and gaining knowledge from all types of resources
 - 🧩 I am passionate about building new products and driving a business 
 - ⌨ I love programming as I love problem solving and building new things
